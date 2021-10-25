@@ -4,4 +4,4 @@
 
 ---
 
-## Приложение деплою на [pages от cloudflare](https://crwn.pages.dev/)
+## Первая версия приложения после темы: "Master Project: Deploying To Production" с деплоем на [Heroku]()
